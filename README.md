@@ -166,7 +166,7 @@ Here’s an overview of the structure of the directory. Please provide the infor
       │     ├── erc20
       │     │     └── {contract address}.png  # Ethereum ERC20 token logo(png, 256x256px)
       │     ├── chain.png                     # Ethereum logo(png, 256x256px)
-      │     └── ethereum-native.png           # Etherem native token logo(png, 256x256px)
+      │     └── ethereum-native.png           # Ethereum native token logo(png, 256x256px)
       ├── eip155.10
       └── ...
 ```
